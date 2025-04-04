@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Análise e Desenvolvimento de Sistemas;<br>22 anos;<br>Estagiário em DevSecOps;
+Análise e Desenvolvimento de Sistemas;<br>23 anos;<br>Estudante procurando estágio;
 
 
 ## 🌐 Socials:
