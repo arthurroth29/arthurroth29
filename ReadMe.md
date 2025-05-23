@@ -1,8 +1,8 @@
 # Sobre mim:
-Arthur Roth {
-  Análise e Desenvolvimento de Sistemas - Uniasselvi;
-  23 anos;
-  Estudante procurando estágio;
+Arthur Roth {<br>
+  Análise e Desenvolvimento de Sistemas - Uniasselvi;<br>
+  23 anos;<br>
+  Estudante procurando estágio;<br>
   }
 
 ## Redes Sociais:
