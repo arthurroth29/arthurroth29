@@ -1,4 +1,4 @@
-# Sobre mim:
+# Sobre:
 Arthur Roth {<br>
   Análise e Desenvolvimento de Sistemas - Uniasselvi;<br>
   23 anos;<br>
